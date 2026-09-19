@@ -1,0 +1,59 @@
+{
+  "user_id": "demo_001",
+
+  "profile": {
+    "name": "Demo User",
+    "age": 28,
+    "occupation": "Software Developer",
+    "marital_status": "married",
+    "dependents": 2
+  },
+
+  "income": {
+    "monthly_salary": 75000,
+    "other_income": 5000
+  },
+
+  "expenses": {
+    "rent": 15000,
+    "food": 10000,
+    "transport": 5000,
+    "utilities": 4000,
+    "education": 5000,
+    "other": 6000
+  },
+
+  "liabilities": {
+    "home_loan": {
+      "outstanding": 1200000,
+      "emi": 15000,
+      "interest_rate": 8.5,
+      "remaining_months": 120
+    }
+  },
+
+  "assets": {
+    "bank_savings": 150000,
+    "mutual_funds": 250000,
+    "gold": 100000
+  },
+
+  "insurance": {
+    "health_cover": 500000,
+    "life_cover": 1000000
+  },
+
+  "goals": [
+    {
+      "name": "Child Education",
+      "current_corpus": 400000,
+      "target_amount": 2000000,
+      "years": 12,
+      "monthly_contribution": 5000
+    }
+  ],
+
+  "risk_profile": {
+    "category": "Moderate"
+  }
+}

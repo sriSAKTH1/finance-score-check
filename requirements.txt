@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-google-genai
+pydantic
+python-dotenv
+pypdf
+chromadb
+langchain-huggingface
+pytest
